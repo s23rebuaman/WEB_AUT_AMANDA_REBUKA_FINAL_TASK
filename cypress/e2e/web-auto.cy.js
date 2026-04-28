@@ -8,7 +8,7 @@ describe("Demoqa scenario", () => {
       HomePage.visit();
     });
 
-    it("Make an Appointment", () => {
+    it("Student Registration Form", () => {
       // Click Forms card
       HomePage.formsCard.click();
       // Click Practice form option
